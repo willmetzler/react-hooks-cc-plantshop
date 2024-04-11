@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Bonzai Tree",
+      "image": "https://img.freepik.com/premium-photo/bonzai-tree-pot-white-background_985046-1218.jpg",
+      "price": "34.99",
+      "id": 8
     }
   ]
 }
